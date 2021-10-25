@@ -22,7 +22,7 @@ test-site-name: "USA.gov"
 
 # The amount of offsite needed to cover the test site nav with the new nav.
 # Increase the negative number value to move the test site "up" so more of it is covered by the new nav.
-nav-offset: -24
+nav-offset: -10
 
 # The primary brand color to match the new nav with the test site.
 # It should be a dark color in hex format (e.g., #a23737) that contrasts well with white.
